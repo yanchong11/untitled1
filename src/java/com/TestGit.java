@@ -6,5 +6,6 @@ public class TestGit {
         System.out.println("yanchong");
         System.out.println("yanchong");
         System.out.println("yanchong");
+         System.out.println("yanchong 修改了代码");
     }
 }
